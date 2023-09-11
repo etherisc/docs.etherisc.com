@@ -908,6 +908,182 @@ La participation est mise en œuvre par les DAO qui régissent les Instances GIF
 Ceci est mis en œuvre par les règles écrites qui régissent le DIF et qui, à leur tour, régissent les DAO représentant les différentes instances du GIF. 
 . Les biens communs fonctionnent mieux lorsqu'ils sont imbriqués dans des réseaux plus vastes. Certaines choses peuvent être gérées localement, mais d'autres peuvent nécessiter une coopération régionale plus large - par exemple, un réseau d'irrigation peut dépendre d'une rivière que d'autres utilisent également en amont. Ceci est mis en œuvre par la structure hiérarchique, au sommet de laquelle se trouve une fondation juridique reconnue par la loi suisse.
 
-////
 = 6 Glossaire et abréviations
 
+== 6.1 Termes utilisés de l'anglais
+
+[options="header"]
+|====
+|Dénomination anglaise | Dénomination française
+| Blockchain | Chaîne de blocs
+| Component | Composant
+| Component owner | Propriétaire du composant
+| DIP token | Le jeton DIP
+| Decentralized insurance | Insurance which is run by a decentralized network
+| DIP token | Please have a look in the abbreviations
+| Ecosystem | Écosystème
+| Global staking pool | Piscine globale de staking
+| Instance operator | Opérateur d'instance
+| Investor | Investisseur
+| Legal framework | Cadre juridique
+| Oracle owner | Propriétaire d'Oracle
+| Primary risk pool | Piscine de risques primaire
+| Secondary risk pool | Piscine de risques socondaire
+| Product owner | Propriétaire du produit
+| Investor | Investors bring in risk capital in risk pools or risk bundles in return for intest payments
+| Risk pool keeper | Gardien du pool de risques
+| Risk pool NFT | NFT de la piscine des risques
+| Smart contract | Contrat intelligent
+| Stablecoins | Jetons stables
+| The elevator pitch | Le discours de l'ascenseur
+
+|====
+
+== 6.2 Explications des termes techniques
+
+[cols="1,1,1"]
+|===
+|Notion |Dénomination française |Explication / Définition
+
+|Black swan event
+|Événement cygne noir
+|Un événement rare mais catastrophique/ Un événement qui surprend, qui a un effet majeur et qui est souvent rationalisé de manière inappropriée après coup avec le bénéfice du recul.
+
+|Collateralization
+|Collatéralisation
+|Le processus de garantie d'un prêt avec un actif de valeur/ L'utilisation d'un actif de valeur comme garantie pour garantir un prêt.
+
+|Decentralized Insurance
+|Assurance décentralisée
+|Une assurance qui est gérée par un réseau décentralisé.
+
+|Ecosystem
+|Écosystème
+|Un système cohérent de participants et de ressources, qui sert un certain objectif.
+
+|Etherisc platform
+|Plate-forme Etherisc
+|L'ensemble des participants, des parties prenantes, des règles, des techniques, des protocoles, du système logiciel, de smart contracts, qui constituent l'écosystème d'Etherisc.
+
+|Float of liquidity
+|Float de la liquidité
+|Le montant moyen des liquidités qui ne sont pas nécessaires pour les créances.
+
+|GIF (Generic Insurance Framework)
+|GIF (Cadre Générique de L'assurance)
+|Soit le GIF ou le framework générique d'assurance.
+
+|Insurance
+|Assurance
+|Un moyen de protection contre les pertes financières/ Une forme de gestion des risques, principalement utilisée pour se couvrir contre le risque d'une perte éventuelle ou incertaine.
+
+|Long tail risks
+|Risques de longue traîne
+|Risques élevés non plausibles représentés par la "longue queue" de la courbe de distribution des risques.
+
+|P2P-insurance models
+|Modèles d'assurance P2P
+|Un petit groupe d'individus ayant un intérêt commun qui combinent leurs primes pour s'assurer contre les risques.
+
+|Parametric Insurance
+|Assurance paramétrique
+|Une assurance où le processus de règlement des sinistres est piloté par les données.
+
+|Premium
+|Prime
+|Montant d'argent pour acheter une police d'assurance.
+
+|Protocol token
+|Jeton de protocole
+|Un token qui sécurise ou active un protocole.
+
+|Risk pool
+|Piscine de risques
+|Un contrat intelligent qui collecte les fonds utilisés pour indemniser les sinistres d'assurance.
+
+|Risk pool token
+|Tokens de piscine de risque
+|Une classe de token similaires, un pour chaque pool de risques, qui représentent les risques.
+
+|Smart contract
+|Contrat intelligent
+|Un programme stocké sur une chaîne de blocs qui s'exécute lorsque des conditions prédéterminées sont remplies.
+
+|Stablecoin
+|Jeton stable
+|Une crypto-monnaie conçue pour avoir un prix relativement stable, généralement en étant rattachée à une marchandise ou à une monnaie ou en ayant son offre régulée par un algorithme.
+
+|Staking
+|Staking
+|Le processus de verrouillage par les investisseurs d'un certain montant de DIP token pour lever des capitaux soutenant les garanties techniques.
+
+|Tragedy of the commons
+|La tragédie des biens communs
+|Un problème social et politique dans lequel chaque individu est incité à agir d'une manière qui, en fin de compte, sera nuisible à tous les individus. Selon Elinor Ostrom, ce problème peut être résolu.
+
+|Transaction costs
+|Coûts de transaction
+|Coût pour effectuer une transaction économique (à ne pas confondre avec les frais de transaction).
+
+|===
+
+== 6.3 Abréviations
+
+[cols="1,1,1"]
+|===
+|Acronymes et abréviations |Explication / Définition anglais |Explication / Définition français
+
+
+|DAO
+|Decentralized autonomous organization
+|Organisation autonome décentralisée
+
+|dAPP
+|Decentralized application
+|Application décentralisée
+
+|DIF
+|Decentralized Insurance Foundation
+|Fondation d'assurance décentralisée
+
+|DIP Token
+|Decentralized Insurance Protocol token
+|Protocol token d'assurance décentralisé
+
+|EGM
+|Etherisc Governance Model
+|Modèle de gouvernance d'Etherisc
+
+|EOA
+|Externally owned address
+|Adresse appartenant à l'extérieur
+
+|GIF
+|Generic Insurance Framework
+|Framework générique de l'assurance
+
+|GSP
+|Global staking pool
+|Piscine globale de staking
+
+|KPI
+|Key performance indicator
+|Indicateur clé de performance
+
+|NFT
+|Non fungible token
+|Token non fongible
+
+|P2P
+|Peer-to-peer
+|Pair à pair
+
+|PRP
+|Primary risk pool
+|Piscine de risque primaire
+
+|SRP
+|Secondary risk pool
+|Piscine de risque secondaire
+
+|===
