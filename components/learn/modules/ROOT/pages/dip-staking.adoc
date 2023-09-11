@@ -103,13 +103,13 @@ The minimum volume is 5,000 DIP.
 
 By checking the box, '`I would like Etherisc to submit the transaction and pay fees on my behalf,`' you can set Etherisc to pay the fees. 
 
-IMPORTANT: Etherisc actually limits the fees to 35 Gwei. You can see the current limit by hovering over the info button. The text that appears contains the current limit. Etherisc does not guarantee that the transaction will be executed immediately.
+IMPORTANT: Etherisc limits the gas fee. The maximum fee is adjusted to the current market conditions. You can see the current limit by hovering over the info button. The text that appears contains the current limit. Etherisc does not guarantee that the transaction will be executed immediately.
 
 You will see this hint if the transaction still needs to be performed.
 
 image::_images/dip-9-pending-fee.PNG[]
 
-You can only check this box once at the initial staking. We take over the fees for the staking in a risk bundle only once per wallet. If you want to stake more DIP tokens in another risk bundle, we will take over these costs again at the initial staking. +
+We cover the fees for the initial stake in a risk bundle that the current wallet has not yet staked in. +
 
 ==== Gasless Restaking
 

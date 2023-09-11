@@ -910,76 +910,180 @@ Ceci est mis en œuvre par les règles écrites qui régissent le DIF et qui, à
 
 = 6 Glossaire et abréviations
 
+== 6.1 Termes utilisés de l'anglais
 
 [options="header"]
 |====
-|Notion | Explanation / Definition
-| Black swan event | A rare but catastrophic event/ An event that comes as a surprise, has a major effect, and is often inappropriately rationalized after the fact with the benefit of hindsight 
-| Collateralization | The process of securing a loan with a valuable asset/ The use of a valuable asset as collateral to secure a loan
-| Component owner | A component owner manages one or more components
-| Core object | 
+|Dénomination anglaise | Dénomination française
+| Blockchain | Chaîne de blocs
+| Component | Composant
+| Component owner | Propriétaire du composant
+| DIP token | Le jeton DIP
 | Decentralized insurance | Insurance which is run by a decentralized network
 | DIP token | Please have a look in the abbreviations
-| Ecosystem | 
-| Etherisc framework | 
-| Etherisc platform | Set of participants, stakeholders, rules, techniques, protocols, software system, smart contracts, which make up Etherisc as a whole
-| Float of liquidity | The average amount of liquidity which is not needed for claims
-| Generic Insurance Framework (GIF) | A library of modular, reusable, generic and secure smart contracts written in Solidity
-| GIF instance | Each complete deployment of a GIF is a GIF instance. It is autonomous and fully functional. Each GIF instance is a library of modular, reusable and secure smart contracts written in Solidity
-| Governance token | Governance token fall under the category of utility tokens. Our governance DIP token gives owners the right to vote on issues that determine the further development and operation of a GIF instance, risk pool, etc.
-| Instance operator | The instance operator is the crucial role that operates a specific GIF instance. The primary tasks of the instance operator are the administration of products and oracles and a few other basic actions
-| Insurance | A means of protection from financial loss/ A form of risk management, primarily used to hedge against the risk of a contingent or uncertain lossfootnote:[https://blog.etherisc.com/basics-about-the-gif-framework-68127be1ce2a]
+| Ecosystem | Écosystème
+| Global staking pool | Piscine globale de staking
+| Instance operator | Opérateur d'instance
+| Investor | Investisseur
+| Legal framework | Cadre juridique
+| Oracle owner | Propriétaire d'Oracle
+| Primary risk pool | Piscine de risques primaire
+| Secondary risk pool | Piscine de risques socondaire
+| Product owner | Propriétaire du produit
 | Investor | Investors bring in risk capital in risk pools or risk bundles in return for intest payments
-| Long tail risks | High implausible risks represented by the “long tail” of the risk distribution curve
-| Oracle owner | An oracle owner runs one or more oracles in one or more GIF instances
-| P2P-insurance models | A small group of individuals with common interest who combine their premiums to insure against risks
-| Parametric insurance | Insurance where the claims process is data-driven
-| Premium | Amount of money to purchase an protection policy. (insurance deleted)
-| Product owner | A product owner manages one or more products
-| Protected | The policyholder. He transfers his risk to the risk pools or risk bundles
-| Protocol token | A token which secures or enables a protocol
-| Risk bundle fragment investor | Small investors teaming up to run a risk bundle
-| Risk bundle NFT | When a risk bundle owner creates a risk bundle, an NFT is created analog to the risk pool NFT that secures and documents the ownership of the risk bundle. Thus, the risk bundle owner has proof that it is his risk bundle and can sell the bundle
-| Risk bundle owner | A risk bundle owner manages one or more risk bundles
-| Risk fee | The return on risk capital in the risk bundles and risk pools
-| Risk pool | A smart contract that collects funds that are used to compensate for insurance claims
-| Risk pool keeper | A risk pool keeper manages one or more risk pools
-| Risk pool NFT | When a risk pool keeper creates a risk pool, an NFT is created that secures and documents the ownership of the risk pool. Thus, the risk pool keeper has the proof that it is his risk pool and thanks to the NFT, risk pools are tradable
-| Risk pool token | A class of similar tokens, one for each risk pool, which represent risks
-| Risk sharing system | Risk sharing is sharing an uncertain outcome, and thus the risk of the outcome, between two or more parties to cover the potential loss from an uncertain event
-| Smart contract | A smart contract is a self-executing program on the blockchain that automates the actions required in an agreement or contract. Once completed, the transactions are trackable and irreversible
-| Stable coin | A cryptocurrency designed to have a relatively stable price, typically through being pegged to a commodity or currency or having its supply regulated by an algorithm
-| Staking | The process of investors locking a certain amount of DIP tokens to raise capital backing the technical guarantees
-| Term | Explanation / Definition
-| The good of the commons | 
-| Tragedy of the commons | A social and political problem in which each individual is incentivized to act in a way that will ultimately be harmful to all individuals. According to Elinor Ostrom, this problem can be solved
-| Transaction costs | Costs to perform an economic transaction (not to be confused with transaction fees)
-| Transaction fees | The amount of gas you have to pay for the transfer of your token
+| Risk pool keeper | Gardien du pool de risques
+| Risk pool NFT | NFT de la piscine des risques
+| Smart contract | Contrat intelligent
+| Stablecoins | Jetons stables
+| The elevator pitch | Le discours de l'ascenseur
 
+|====
 
-[cols="1,1"]
+== 6.2 Explications des termes techniques
+
+[cols="1,1,1"]
 |===
-|Name |Short description
+|Notion |Dénomination française |Explication / Définition
 
+|Black swan event
+|Événement cygne noir
+|Un événement rare mais catastrophique/ Un événement qui surprend, qui a un effet majeur et qui est souvent rationalisé de manière inappropriée après coup avec le bénéfice du recul.
+
+|Collateralization
+|Collatéralisation
+|Le processus de garantie d'un prêt avec un actif de valeur/ L'utilisation d'un actif de valeur comme garantie pour garantir un prêt.
+
+|Decentralized Insurance
+|Assurance décentralisée
+|Une assurance qui est gérée par un réseau décentralisé.
+
+|Ecosystem
+|Écosystème
+|Un système cohérent de participants et de ressources, qui sert un certain objectif.
+
+|Etherisc platform
+|Plate-forme Etherisc
+|L'ensemble des participants, des parties prenantes, des règles, des techniques, des protocoles, du système logiciel, de smart contracts, qui constituent l'écosystème d'Etherisc.
+
+|Float of liquidity
+|Float de la liquidité
+|Le montant moyen des liquidités qui ne sont pas nécessaires pour les créances.
+
+|GIF (Generic Insurance Framework)
+|GIF (Cadre Générique de L'assurance)
+|Soit le GIF ou le framework générique d'assurance.
+
+|Insurance
+|Assurance
+|Un moyen de protection contre les pertes financières/ Une forme de gestion des risques, principalement utilisée pour se couvrir contre le risque d'une perte éventuelle ou incertaine.
+
+|Long tail risks
+|Risques de longue traîne
+|Risques élevés non plausibles représentés par la "longue queue" de la courbe de distribution des risques.
+
+|P2P-insurance models
+|Modèles d'assurance P2P
+|Un petit groupe d'individus ayant un intérêt commun qui combinent leurs primes pour s'assurer contre les risques.
+
+|Parametric Insurance
+|Assurance paramétrique
+|Une assurance où le processus de règlement des sinistres est piloté par les données.
+
+|Premium
+|Prime
+|Montant d'argent pour acheter une police d'assurance.
+
+|Protocol token
+|Jeton de protocole
+|Un token qui sécurise ou active un protocole.
+
+|Risk pool
+|Piscine de risques
+|Un contrat intelligent qui collecte les fonds utilisés pour indemniser les sinistres d'assurance.
+
+|Risk pool token
+|Tokens de piscine de risque
+|Une classe de token similaires, un pour chaque pool de risques, qui représentent les risques.
+
+|Smart contract
+|Contrat intelligent
+|Un programme stocké sur une chaîne de blocs qui s'exécute lorsque des conditions prédéterminées sont remplies.
+
+|Stablecoin
+|Jeton stable
+|Une crypto-monnaie conçue pour avoir un prix relativement stable, généralement en étant rattachée à une marchandise ou à une monnaie ou en ayant son offre régulée par un algorithme.
+
+|Staking
+|Staking
+|Le processus de verrouillage par les investisseurs d'un certain montant de DIP token pour lever des capitaux soutenant les garanties techniques.
+
+|Tragedy of the commons
+|La tragédie des biens communs
+|Un problème social et politique dans lequel chaque individu est incité à agir d'une manière qui, en fin de compte, sera nuisible à tous les individus. Selon Elinor Ostrom, ce problème peut être résolu.
+
+|Transaction costs
+|Coûts de transaction
+|Coût pour effectuer une transaction économique (à ne pas confondre avec les frais de transaction).
+
+|===
+
+== 6.3 Abréviations
+
+[cols="1,1,1"]
+|===
+|Acronymes et abréviations |Explication / Définition anglais |Explication / Définition français
+
+
+|DAO
+|Decentralized autonomous organization
+|Organisation autonome décentralisée
+
+|dAPP
+|Decentralized application
+|Application décentralisée
+
+|DIF
 |Decentralized Insurance Foundation
-|Development and promotion of the DIP protocol, funding of the development of the Generic Insurance Framework (GIF)
+|Fondation d'assurance décentralisée
 
-|Kleros
-|Decentralized arbitration service and token curated registry
+|DIP Token
+|Decentralized Insurance Protocol token
+|Protocol token d'assurance décentralisé
 
-|DAOstack
-|Software stack for DAOs including a library of governance protocols and interfaces for creating and managing DAOs
+|EGM
+|Etherisc Governance Model
+|Modèle de gouvernance d'Etherisc
 
-|Mainnet
-|Example blockchain
+|EOA
+|Externally owned address
+|Adresse appartenant à l'extérieur
 
-|Gnosis chain
-|Example blockchain
+|GIF
+|Generic Insurance Framework
+|Framework générique de l'assurance
 
-|Avalanche
-|Example blockchain
+|GSP
+|Global staking pool
+|Piscine globale de staking
 
-|Polygon
-|Example blockchain
+|KPI
+|Key performance indicator
+|Indicateur clé de performance
+
+|NFT
+|Non fungible token
+|Token non fongible
+
+|P2P
+|Peer-to-peer
+|Pair à pair
+
+|PRP
+|Primary risk pool
+|Piscine de risque primaire
+
+|SRP
+|Secondary risk pool
+|Piscine de risque secondaire
 
 |===
