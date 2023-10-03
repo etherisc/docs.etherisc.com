@@ -56,6 +56,20 @@ The minimum lock duration depends on the bundle lifetime you staked your DIP tok
 
 Just press the ‘Unstake DIP’ button. You will see all bundles in which unstaking is possible. The bundle needs to be expired or closed to unstake.
 
+== What is restaking?
+
+You can restake your DIP tokens when the risk bundle you have staked in is closed or expired. You can then restake your complete amount, i.e., all tokens and all rewards in a transaction, into a risk bundle where you haven’t staked DIP token yet.
+
+== What is gasless staking?
+
+By checking the box, '`I would like Etherisc to submit the transaction and pay fees on my behalf,`' you can set Etherisc to pay the fees. We cover the fees for the initial stake in a risk bundle that the current wallet has not yet staked in.
+
+== What is gasless restaking?
+
+Similar to gasless staking, you also have the choice of taking over the fees or Etherisc when you restake your DIP token.
+
+IMPORTANT: Etherisc limits the gas fee. The maximum fee is adjusted to the current market conditions. You can see the current limit by hovering over the info button. The text that appears contains the current limit. Etherisc does not guarantee that the transaction will be executed immediately.
+
 == Where are the rewards coming from?  
 
 The Etherisc Foundation initially provided them. 

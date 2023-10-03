@@ -79,5 +79,15 @@ However, the industry is not working for:
 
 A fair and truly decentralized ecosystem that protects the unprotected and welcomes everyone to be a part of it. Want to be part of an ecosystem of cheaper, faster and more transparent insurance? Join the revolution today and say hello to insurance 2.0!
 
+////
 
+= Download this document
+
+++++
+<div>
+  <a href="https://docs.etherisc.com/learn/whitepaper-en-tldr" download>
+    <button>Download</button>
+  </a>
+</div>
+++++
 

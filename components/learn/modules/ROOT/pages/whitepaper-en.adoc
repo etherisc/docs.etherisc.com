@@ -58,7 +58,7 @@ This White Paper is the attempt to structure the overall picture of decentralize
 
 The final chapter six contains a list of all abbreviations and definitions of the most important terms. +
 
-= 2 Analysis of Basic Insurance Paradigms
+= 2 Analysis of basic insurance paradigms
 
 == 2.1	Overview
 
@@ -349,7 +349,7 @@ Secrecy enables incompetence, and transparency promotes competence. The more pub
 * *Scalable participation* +
 You want no barriers at any point, but it must get harder and harder. This makes the community feel like a massive multiplayer game, where there’s always someone better than you, and you just have to try to catch up.
 
-= 3 GIF - The Generic Insurance Framework
+= 3 GIF - the Generic Insurance Framework
 
 The GIF consists of building blocks that include the complete value chain: the insured, the insurer, the investor and the instance operator. First of all, you need insurance products that you can sell. The insurance products have a product owner who designs the products. The insurance products themselves are from smart contracts. +
 
@@ -381,6 +381,7 @@ An insurance companyfootnote:[ We use the term “company” here for easier rea
 |_Via smart contracts, this can be done in a transparent and auditable way._
 
 |===
+
 === 3.1.2 What is an insurance policy?
 
 An insurance policy is a contract provided to the insured by the insurance company that sets out the conditions and circumstances under which the insurance company will make payouts to cover losses incurred by the insured due to recognized claims. In TradFi, this is typically a legal contract. In our context, a policy is simply a dataset stored on blockchain and manipulated via defined rules by a smart contract. +

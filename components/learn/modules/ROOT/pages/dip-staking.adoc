@@ -17,7 +17,7 @@ image::_images/dip-1-menubar.png[]
 
 You will be redirected to our https://etherisc.com/[homepage] if you click on our logo.
 
-== Tap '`DIP Staking`'
+== Tab '`DIP Staking`'
 
 When you start the web app, you will land in the '`DIP Staking`' area. All risk bundles are listed here.
 
@@ -65,7 +65,7 @@ You can sort the table by any information. Just click on the information. Defaul
 ==== DETAILS
 On the table's far right, you can click '`DETAILS.`'
 
-== Manage your DIP staking
+== Manage your staked DIP
 
 In the detail view, you can stake DIP token or manage your staked DIP token.
 
@@ -86,7 +86,9 @@ You can claim your rewards at any time during the lifetime of a risk bundle, but
 
 ==== RESTAKE
 
-Restaking is only possible in risk bundles that are already closed or expired. You can only restake the total amount of DIP token you staked in this risk bundle. You can only restake in a risk bundle in which you have not yet staked any DIP token.
+Restaking is only possible in risk bundles that are already closed or expired. You can only restake the total amount of the DIP token you staked and earned in a new risk bundle. The staked DIP and the earned DIP will be treated as a newly staked DIP in the new risk bundle. You can only restake in a risk bundle in which you have not yet staked any DIP token. +
+
+Here is an example: you have staked 500,000 DIP and you have earned 5,000 DIP and you restake. The result will be that your stakes will show 505,000 staked DIP and 0 earned DIP in the new risk bundle initially.
 
 == Tab '`Stakes`'
 
@@ -125,11 +127,38 @@ image::_images/dip-7-confirm.png[]
 
 image::_images/dip-8-transaction.png[]
 
+==== Here are the technical details of the gasless DIP staking and restaking
+
+With gasless DIP staking or restaking, you do not sign a transaction hash, unlike standard transactions. With the signature request, you only confirm that you want to stake or restake the DIP token gasless. 
+You have to create an allowance for a gasless staking transaction as you would for regular staking transactions. This will incur a small fee on your side. +
+The signature allows us to verify that the data on the blockchain is identical to the data you entered in the form when you initiated the transaction. 
+Then, you get the signature request. This approval has to be made by you, the staker. Otherwise, everyone could move assets back and forth in the wallets of others. 
+In the signature in Metamask, you will find the data you entered in the staking form in our web app. The signature is free of fee for you.
+
+image::_images/dip-10-signature-request.PNG[]
+
+In the screenshot, you can see the popup of Metamask and the DIP staking web app. +
+In the red frame, as well as in the web app, you can find the following information: 
+
+* the NFT ID (framed green) 
+* the DIP amount you have staked (framed orange)
+* the signature ID (framed pink)
+
+The DIP amount is displayed in Wei, hence the 18 zeros after the entered amount. +
+The signature ID in Metamask is a random value used to identify the request uniquely. +
+Using the NFT ID, the DIP amount and the signature ID, metamask calculates a signature using your wallet's private key and then sends all the data of the signature to our backend. The backend uses this data to create a staking request from our wallet (so that we pay for it) and writes the transaction to the blockchain. +
+Above the red frame, one more bluish-framed element is left in the screenshot: the "verify third-party details" link.
+It will show you the address of the "verifying contract." This smart contract verifies the signature. The address is included when calculating the signature to ensure no other contract can verify this. +
+If you open Etherscan or click the link in Metamask and go to the address of this smart contract, you should see the smart contract called ‘StakingMessageHelper.’ If you want to be sure it's the correct one, then take Etherscan and open our staking registry (https://etherscan.io/address/0x88Ce11f387d140bF639a16f55Bc38e7323Ab1D9c#readProxyContract) and execute the getMessageHelperAddress function and this should return the same address as is shown in the signing request. If it's different, don't click ‘Sign.’ +
+
+IMPORTANT: Our staking registry on mainnet is 0x88Ce11f387d140bF639a16f55Bc38e7323Ab1D9c (https://etherscan.io/address/0x88Ce11f387d140bF639a16f55Bc38e7323Ab1D9c). +
+The staking message helper for the signature is 0xFFdC7c357363BcF0C4a142DFB61359322028523F (https://etherscan.io/address/0xFFdC7c357363BcF0C4a142DFB61359322028523F). +
+Stop immediately if you ever encounter different addresses during your staking process!
+
+
 == Tab '`Unstake DIP`'
 
 In this area, you can unstake your DIP token. Unstaking is only available on expired risk bundles or in states '`Closed`' or '`Burned.`'
-
-
 
 
 
