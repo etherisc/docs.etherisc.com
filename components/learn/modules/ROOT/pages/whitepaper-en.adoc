@@ -899,6 +899,8 @@ This is implemented by the written rules which govern the DIF and which in turn 
 
 = Glossary and abbreviations
 
+== Glossary
+
 [options="header"]
 |====
 |Notion | Explanation / Definition
@@ -938,7 +940,6 @@ This is implemented by the written rules which govern the DIF and which in turn 
 | Smart contract | A smart contract is a self-executing program on the blockchain that automates the actions required in an agreement or contract. Once completed, the transactions are trackable and irreversible
 | Stable coin | A cryptocurrency designed to have a relatively stable price, typically through being pegged to a commodity or currency or having its supply regulated by an algorithm
 | Staking | The process of investors locking a certain amount of DIP tokens to raise capital backing the technical guarantees
-| Term | Explanation / Definition
 | The good of the commons | 
 | Tragedy of the commons | A social and political problem in which each individual is incentivized to act in a way that will ultimately be harmful to all individuals. According to Elinor Ostrom, this problem can be solved
 | Transaction costs | Costs to perform an economic transaction (not to be confused with transaction fees)
@@ -947,4 +948,19 @@ This is implemented by the written rules which govern the DIF and which in turn 
 |  | 
 |====
 
+== Abbreviations
 
+[options="header"]
+|====
+|Acronyms & Abbrevations | Explanation / Definition
+| NFT | Non fungible token
+| dAPP | Decentralized application
+| DAO | Decentralized autonomous organization
+| DIF | Decentralized insurance foundation
+| GIF | Generic insurance framework
+| DIP token | Decentralized insurance protocol token
+| EOA | Externally owned address
+| EGM | Etherisc governance model
+| P2P | Peer-to-peer
+| KPI | Key performance indicator
+|====

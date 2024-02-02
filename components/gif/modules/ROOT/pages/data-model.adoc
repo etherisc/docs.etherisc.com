@@ -102,7 +102,7 @@ Everybody who wants to provide risk capital creates his risk bundle by staking U
 
 Each risk bundle has its own NFT (ERC721). +
 
-You can find detailed information in the https://docs.etherisc.com/learn/depeg-purchase.com[Depeg Protection Tutorial] and the https://docs.etherisc.com/learn/depeg-faq[Depeg Protection FAQ's].
+You can find detailed information in the https://docs.etherisc.com/learn/depeg-purchase[Depeg Protection Tutorial] and the https://docs.etherisc.com/learn/depeg-faq[Depeg Protection FAQ's].
 
 States of the bundle: +
 

@@ -1,0 +1,194 @@
+= Etherisc - Terms of Service 				*
+
+Last modified: March, 2023
+
+These Terms of Service (the “Agreement”) explain the terms and conditions under which you may access and use the Products provided by Etherisc GmbH (referred to herein as “Etherisc GmbH”, “we”, “our”, or “us”). The Products shall include, but shall not necessarily be limited to, https://etherisc.com[https://etherisc.com] and all of its subdomains. +
+
+You must read this Agreement carefully as it governs your use of the Products. By accessing or using the Products, you confirm that you have read, understand, and agree to be  unequivocally bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use the Products and must not use the Products. +
+
+*NOTICE*: This Agreement contains important information, including a binding arbitration provision and a class action waiver, both of which affect the way disputes are resolved in relation to your use of the Products. +
+
+== Introduction
+
+The Products provides access to  a decentralized software protocol, which may be deployed on various public blockchains (including but not limited to Ethereum, Polygon, Gnosis Chain, Binance Smart Chain, Celo and Avalanche) and which allows users to enter into transactions with each other on a peer-to-peer basis to exchange various digital assets based on certain conditions (“the Decentralized Insurance Protocol” or the “Protocol”). +
+
+To access the Products, you must use *non-custodial wallet* software (for simplicity hereinafter referred to as wallet of wallets), which enables you to interact with public blockchains. Your relationship with that non-custodial wallet provider is governed by the applicable terms of service of that third party and does not form part of this Agreement. Wallets are not operated by, maintained by, or affiliated with us, and we do not have custody or control over the contents of your wallet and have no ability to retrieve or transfer its contents. By connecting your wallet to our Products, you agree to be bound by this Agreement and all of the terms incorporated herein by reference. +
+
+== Modification of this Agreement
+
+We reserve the right, in our sole discretion, to modify this Agreement from time to time. If we make any material modifications, we may notify you by updating the date at the top of the Agreement and by maintaining a current version of the Agreement at https://etherisc.com/terms-of-service[https://etherisc.com/terms-of-service], however, it remains your responsibility to check for the latest version of the Terms of Service prior to accessing and using the Products. All modifications will be effective when they are posted, and your continued access or use of the Products will serve as confirmation of your acceptance of all such modifications. If you do not agree with any modifications to this Agreement, you must stop accessing and using the Products immediately. +
+
+== Description of Services provided through the Products
+
+The Products provide web or mobile-based means of accessing the Protocol. +
+
+The Products are distinct from the Protocol and are one, but not the exclusive, means of accessing the Protocol. The Protocol comprises open-source, self-executing smart contracts that are deployed on various public blockchains. +
+
+The smart contracts are purely technical functions which determine the transfer of various cryptographic assets subject to certain technical functions, processes and conditions. If you as a user connect a wallet to such a smart contract, you subject your assets irrevocably to the outcome of the technical function of the relevant smart contract. The smart contract as such executes autonomously as programmed and does not provide you with any legal claim vis-a-vis any other party. +
+
+Any transactions that users engage in by means of the Protocol are purely bilateral between such users on a peer-to-peer basis. Etherisc will never become a party to any such transactions. +
+
+Transactions may be subject to separate terms imposed by their creators with respect to the conditions and benefits associated with a particular transaction. We are not a party to any such intrinsic terms, which are valid only between the parties involved in a transaction. The parties involved in a transaction are solely responsible for communicating, promulgating, agreeing to, and enforcing those terms, and you are solely responsible for reviewing such terms. +
+
+Etherisc does not control or operate any version of the Protocol on any blockchain network. By using the Products, you understand that you are not transacting or exchanging digital assets with us. We do not operate any smart contracts nor do we engage in any transactions on the Protocol nor do we control their execution on the Protocol. +
+
+When users pay fees for transactions, those fees accrue to other users as their transaction counterparty who are third parties independent from Etherisc. +
+
+The Protocol was initially deployed on the Ethereum blockchain, and has since been deployed on several other blockchain networks. Future Instances may be deployed by parties other than Etherisc. Deployments on other networks may make use of cross-chain bridges, which allow assets native to one blockchain to be transferred to another blockchain. Please note that digital assets that have been “bridged” or “wrapped” to operate on other blockchain networks (including to blockchains compatible with the Ethereum Virtual Machine that are designed to ensure the Ethereum blockchain can effectively process more transactions or other blockchains that are frequently referred to as “Layer 2” solutions) are distinct from the original Ethereum mainnet asset. +
+
+The Products features a marketplace function, which is a series of smart contracts that allow users to search, filter, discover and choose transactions according to a number of criteria. +
+
+== Eligibility
+
+To access or use the Products, you must be able to form a legally binding contract with us. Accordingly, you represent that you are at least the age of majority in your jurisdiction (e.g., 18 years old in Germany) and have the full capacity to enter into and comply with the terms and conditions of this Agreement on behalf of yourself and any company or legal entity for which you may access or use the Products. +
+
+You further represent that you are not (a) the subject of economic or trade sanctions administered or enforced by any governmental authority or otherwise designated on any list of prohibited or restricted parties  or (b) a citizen, resident, or a legal entity organized in a jurisdiction or territory that is the subject of comprehensive country-wide, territory-wide, or regional economic sanctions by the United States, the UN or any EU member state or (c) a citizen, resident, green card holder or a legal entity organized in the US nor are you in any other way legally considered a US Person. Finally, you represent that your access and use of the Products will fully comply with all applicable laws and regulations including your jurisdiction of residence and the jurisdiction you are accessing the Products form, and that you will not access or use the Products to conduct, promote, or otherwise facilitate any illegal activity. +
+
+== Intellectual Property Rights
+
+We own all intellectual property and other rights in the Products and its contents, including (but not limited to) software, text, images, trademarks, service marks, copyrights, patents, designs, and its “look and feel.”. Unlike the Products,  the Protocol consists entirely of open-source software running on public blockchains. +
+
+By using the Products to list, post, promote, offer or display transactions, you grant us a worldwide, non-exclusive, sublicensable, royalty-free license to use, copy, modify, and display any content, including but not limited to text, materials, images, files, communications, comments, feedback, suggestions, ideas, concepts, questions, data, or otherwise, that you post on or through the Products for our current and future business purposes, including to provide, promote, and improve the services. +
+
+You represent and warrant that you have, or have obtained, all rights, licenses, consents, permissions, powers and/or authorities necessary to offer any transaction that you list, post, promote, or display on or through the Products. You represent and warrant that such content does not contain material subject to copyright, trademark, publicity rights, or other intellectual property rights, unless you have necessary permission or are otherwise legally entitled to post the material and to grant us the license described above, and that the content does not violate any laws. +
+
+== Additional Rights
+
+We reserve the following rights, which do not constitute obligations of ours: +
+
+(a) with or without notice to you, to modify, substitute, eliminate or add to the Products; +
+
+(b) to review, modify, filter, disable, delete and remove any and all content and information from the Products; and +
+
+(c) to cooperate with any law enforcement, court or government investigation or order or third party requesting or directing that we disclose information or content or information that you provide. +
+
+== Prohibited Activity
+
+You agree not to engage in, or attempt to engage in, any of the following categories of prohibited activity in relation to your access and use of the Products: +
+
+. Intellectual Property Infringement. Activity that infringes on or violates any copyright, trademark, service mark, patent, right of publicity, right of privac, or other proprietary or intellectual property rights under the law. +
+
+. Cyberattack. Activity that seeks to interfere with or compromise the integrity, security, or proper functioning of any computer, server, network, personal device, or other information technology system, including (but not limited to) the deployment of viruses and denial of service attacks. +
+
+. Fraud and Misrepresentation. Activity that seeks to defraud us or any other person or entity, including (but not limited to) providing any false, inaccurate, or misleading information in order to unlawfully obtain the property of another. +
+
+. Market Manipulation. Activity that violates any applicable law, rule, or regulation concerning the integrity of trading markets, including (but not limited to) the manipulative tactics commonly known as “rug pulls”, pumping and dumping, and wash trading. +
+
+. Securities and Derivatives Violations. Activity that violates any applicable law, rule, or regulation concerning the trading of securities or derivatives, including (but not limited to) the unregistered offering of securities and the offering of leveraged and margined commodity products to retail customers in the United States. +
+
+. Sale of Stolen Property. Buying, selling, or transferring of stolen items, fraudulently obtained items, items taken without authorization, and/or any other illegally obtained items. +
+
+. Data Mining or Scraping. Activity that involves data mining, robots, scraping, or similar data gathering or extraction methods of content or information from the Products. +
+
+. Objectionable Content. Activity that involves soliciting information from anyone under the age of 18 or that is otherwise harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, libelous, invasive of another’s privacy, hateful, discriminatory, or otherwise objectionable. +
+
+. Any Other Unlawful Conduct. Activity that violates any applicable law, rule, or regulation of Germany, your country of residence, the country where you are accessing the Products from or another relevant jurisdiction, including (but not limited to) the restrictions and regulatory requirements imposed by German law. +
+
+== Not Registered with BaFin or Any Other Agency
+
+We are not registered nor licensed with the German Financial Regulator BaFin in any capacity. You understand and acknowledge that we do not broker transactions on your behalf nor do we collect or earn fees from your transactions on the Products. We also do not facilitate the execution or settlement of your transactions, which occur entirely on public distributed blockchains like Ethereum and pursuant to the technical functions of smart contracts. As a result, we do not (and cannot) guarantee any pricing, conditions or proper execution through the Products. +
+
+== Non-Solicitation and No Investment Advice
+
+You agree and understand that: +
+
+(a) all transactions you submit or engage in through the Products are considered unsolicited, which means that they are solely initiated by yourself; +
+
+(b) you have not received any investment or other advice from us in connection with any transactions; and +
+
+(c) we do not conduct a suitability review of any transactions you submit.
+
+We may provide information about third party transactions posted on the Protocol or on the Products. Such provision of informational materials does not amount to advertising or solicitation of such transactions and is for informational purposes only. We are not attempting to induce you to become part of any transaction as a result of information provided. All such information provided by the Products is for informational purposes only and should not be construed as investment advice or a recommendation that a particular transaction is safe or sound. You should not take, or refrain from taking, any action based on any information contained in the Products. By providing information for your convenience, we do not make any recommendations to you or opine on the merits of any transaction or opportunity. You alone are responsible for determining whether any transaction is appropriate for you based on your personal objectives, financial circumstances, and risk tolerance. +
+
+== Non-Custodial and No Fiduciary Duties
+
+The Products is a purely non-custodial application, meaning we do not ever have custody, possession, or control of your digital assets at any time. It further means you are solely responsible for the custody of the cryptographic private keys to the digital asset wallets you hold and you should never share your wallet credentials or seed phrase with anyone. We accept no responsibility for, or liability to you, in connection with your use of a wallet and make no representations or warranties regarding how the Products will operate with any specific wallet. Likewise, you are solely responsible for any associated wallet and we are not liable for any acts or omissions by you in connection with or as a result of your wallet being compromised. +
+
+This Agreement is not intended to, and does not, create or impose any fiduciary duties on us. To the fullest extent permitted by law, you acknowledge and agree that we owe no fiduciary duties or liabilities to you or any other party, and that to the extent any such duties or liabilities may exist at law or in equity, those duties and liabilities are hereby irrevocably disclaimed, waived, and eliminated, while we shall be indemnified by you and held harmless against any liabilities or claims that my be raised in relation to your use of the Products. You further agree that the only duties and obligations that we owe you are those set out expressly in this Agreement. +
+
+== Compliance and Tax Obligations
+
+The Products may not be available or appropriate for use in your jurisdiction. By accessing or using the Products, you agree that you are solely and entirely responsible for compliance with all laws and regulations that may apply to you or to a transaction you engage in. +
+
+We are unable to verify the identity and location or jurisdiction, laws and regulation applicable to the users transacting on the Protocol. It is therefore entirely up to you to determine the legal nature of any transactions you engage in under the applicable law, verify any special legal and regulatory requirements under applicable law and to obtain any regulatory licenses that may be required to lawfully engage in the transaction. +
+
+Specifically, your use of the Products or the Protocol may result in various tax consequences, such as income or capital gains tax, value-added tax, goods and services tax, or sales tax in certain jurisdictions. +
+
+It is your responsibility to determine whether taxes apply to any transactions you initiate or receive and, if so, to report and/or remit the correct tax to the appropriate tax authority. +
+
+== Assumption of Risk
+
+By accessing and using the Products, you represent that you are legally, financially and technically sophisticated enough to understand the transaction you are engaging in as well as the inherent risks associated with using cryptographic and blockchain-based systems, and that you have a working knowledge of the usage and intricacies of digital assets such as ether (ETH), the DIP Token, so-called stablecoins, and other digital tokens such as without limitation those following the Ethereum Token Standard (ERC-20). +
+
+In particular, you understand that the markets for these digital assets are nascent and highly volatile due to risk factors including (but not limited to) adoption, speculation, technology, security, and regulation. You understand that anyone can create a token, including fake versions of existing tokens and tokens that falsely claim to represent projects, and acknowledge and accept the risk that you may mistakenly trade those or other tokens. So-called stablecoins may not be as stable as they purport to be, may not be fully or adequately collateralized, and may be subject to panics and runs. +
+
+Further, you understand that smart contract transactions automatically execute and settle, and that blockchain-based transactions are irreversible when confirmed. You acknowledge and accept that the cost and speed of transacting with cryptographic and blockchain-based systems such as Ethereum are variable and may increase dramatically at any time. +
+
+You represent and warrant that you have done sufficient research before making any decisions to transact, obtain, transfer, or otherwise interact with any smart contracts. +
+
+If you stake assets on the Protocol through the Products, you understand that your digital assets may lose some or all of their value while they are locked in the Protocol due to the fluctuation of prices of tokens. +
+
+Finally, you understand that we do not create, own, or operate cross-chain bridges and we do not make any representation or warranty about the safety or soundness of any cross-chain bridge. +
+
+In summary, you acknowledge that we are not responsible for any of these variables or risks, do not own or control the Protocol, and cannot be held liable for any resulting losses that you experience while accessing or using the Products. Accordingly, you understand and agree to assume full responsibility for all of the risks of accessing and using the Products to interact with the Protocol. +
+
+== Third-Party Resources and Promotions
+
+The Products may contain references or links to third-party resources, including (but not limited to) information, materials, products, transactions or services, that we do not own or control. In addition, third parties may offer promotions related to your access and use of the Products. We do not approve, monitor, endorse, warrant or assume any responsibility for any such resources or promotions. If you access any such resources or participate in any such promotions, you do so at your own risk, and you understand that this Agreement does not apply to your dealings or relationships with any third parties. You expressly relieve us of any and all liability arising from your use of any such resources or participation in any such promotions. +
+
+== Release of Claims
+
+You expressly agree that you assume all risks in connection with your access and use of the Products. You further expressly waive and release us from any and all liability, claims, causes of action, or damages arising from or in any way relating to your use of the Products. +
+
+== Indemnity
+
+You agree to hold harmless, release, defend, and indemnify us and our officers, directors, employees, contractors, agents, affiliates, and subsidiaries from and against all claims, damages, obligations, losses, liabilities, costs, and expenses arising from: (a) your access and use of the Products; (b) your violation of any term or condition of this Agreement, the right of any third party, or any other applicable law, rule, or regulation; and (c) any other party's access and use of the Products with your assistance or using any device or account that you own or control. +
+
+== No Warranties
+
+The Products is provided on an "AS IS" and "AS AVAILABLE" basis. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ANY REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING (BUT NOT LIMITED TO) THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. +
+
+You acknowledge and agree that your use of the Products is at your own risk. We do not represent or warrant that access to the Products will be continuous, uninterrupted, timely, or secure; that the information contained in the Products will be accurate, reliable, complete, or current; or that the Products will be free from errors, defects, viruses, or other harmful elements. No advice, information, or statement that we make should be treated as creating any warranty concerning the Products. We do not endorse, guarantee, or assume responsibility for any advertisements, offers, or statements made by third parties concerning the Products. +
+
+Similarly, the Protocol is provided "AS IS", at your own risk, and without warranties of any kind. Although we contributed to the initial code for the Protocol, we do not provide, own, or control the Protocol, which is run autonomously without any headcount by smart contracts deployed on various blockchains. Upgrades and modifications to the Protocol are generally managed in a community-driven way. No developer or entity involved in creating the Protocol will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of, the Protocol, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value. We do not endorse, guarantee, or assume responsibility for any advertisements, offers, or statements made by third parties concerning the Products. +
+
+== No Refunds
+
+Any payments or financial transactions that you engage in with your cryptographic assets will be processed via automated smart contracts. Once executed, we have no control over these payments or transactions, nor do we have the ability to reverse any payments or transactions. We have no liability to you or to any third party for any claims or damages that may arise as a result of any payments or transactions that you engage in via the Products. Except as expressly provided for herein, we do not provide refunds for any transactions that you might make on or through the Products. +
+
+== Limitation of Liability
+
+UNDER NO CIRCUMSTANCES SHALL WE OR ANY OF OUR OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, AFFILIATES, OR SUBSIDIARIES BE LIABLE TO YOU FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING (BUT NOT LIMITED TO) DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE PROPERTY, ARISING OUT OF OR RELATING TO ANY ACCESS OR USE OF THE PRODUCTS, NOR WILL WE BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE Products  OR THE INFORMATION CONTAINED WITHIN IT. WE ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY: (A) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM ANY ACCESS OR USE OF THE Products; (C) UNAUTHORIZED ACCESS OR USE OF ANY SECURE SERVER OR DATABASE IN OUR CONTROL, OR THE USE OF ANY INFORMATION OR DATA STORED THEREIN; (D) INTERRUPTION OR CESSATION OF FUNCTION RELATED TO THE Products; (E) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE Products; (F) ERRORS OR OMISSIONS IN, OR LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF, ANY CONTENT MADE AVAILABLE THROUGH THE PRODUCTS; AND (G) THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY. +
+
+== Dispute Resolution
+
+We will use our best efforts to resolve any potential disputes through informal, good faith negotiations. If a potential dispute arises, you must contact us by sending an email to mailto:legal@etherisc.com[legal@etherisc.com] so that we can attempt to resolve it without resorting to formal dispute resolution. If we aren't able to reach an informal resolution within sixty days of your email, then you and we both agree to resolve the potential dispute according to the process set forth below. +
+
+Any claim or controversy arising out of or relating to the Products, this Agreement, or any other acts or omissions for which you may contend that we are liable, including (but not limited to) any claim or controversy as to arbitrability ("Dispute"), shall be finally settled in accordance with the Arbitration Rules of the German Arbitration Institute (DIS) without recourse to the ordinary courts of law. +
+
+The arbitral tribunal shall be comprised of a sole arbitrator. +
+
+The seat of the arbitration is Munich, Germany. +
+
+The language of the arbitration shall be English. +
+
+The rules of law applicable to the merits shall be german law. +
+
+You understand that you are required to resolve all Disputes by binding arbitration. Unless we agree otherwise, the arbitrator may not consolidate your claims with those of any other party. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. +
+
+== Class Action and Jury Trial Waiver
+
+You must bring any and all Disputes against us in your individual capacity and not as a plaintiff in or member of any purported class action, collective action, private attorney general action, or other representative proceeding. This provision applies to class arbitration. You and we both agree to waive the right to demand a trial by jury. +
+
+== Governing law
+
+You agree that the laws of Germany, without regard to principles of conflict of laws, govern this Agreement and any Dispute between you and us. You further agree that the Products shall be deemed to be based solely in Germany, and that although the Products may be available in other jurisdictions, its availability does not give rise to general or specific personal jurisdiction in any forum outside of Germany. You agree that the courts of Munich, Germany are the proper forum for any appeals of an arbitration award or for court proceedings in the event that this Agreement's binding arbitration clause is found to be unenforceable. +
+
+== Entire Agreement
+
+These terms constitute the entire agreement between you and us with respect to the subject matter hereof. This Agreement supersedes any and all prior or contemporaneous written and oral agreements, communications and other understandings (if any) relating to the subject matter of the terms. +
+
+== Gas Fees
+
+Blockchain transactions require the payment of transaction fees to the appropriate network (“Gas Fees”). You will be solely responsible to pay the Gas Fees for any transaction that you initiate via the Products or the Protocol. +
+

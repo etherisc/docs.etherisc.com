@@ -101,7 +101,7 @@ Here the contract events of the GIF core contracts are displayed. Smart contract
 The '`Oracle`' area of the GIF monitor displays available oracles.
 
 ==== Oracles
-You will find all oracles available on the platform in the '`Oracles dialogue.`' Here you can view all input and callback formats as a product owner. In addition, the appropriate oracle can be requested from the Oracle owners.
+ou will find all oracles available on the platform in the '`Oracles dialogue.`' Here you can view all input and callback formats as a product owner. In addition, the appropriate oracle can be requested from the Oracle owners.
 
 By clicking on an oracle, the ID, the description, the oracle contract, the oracle owner and the active oracle types are displayed in the details.
 

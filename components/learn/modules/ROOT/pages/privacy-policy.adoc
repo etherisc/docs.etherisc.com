@@ -1,0 +1,123 @@
+= Privacy Policy for the websites and mobile apps of Etherisc GmbH
+
+==== Data protection
+
+With this privacy policy we would like to inform you about how we process personal data. We are aware of the importance of the processing of personal data for the user and, accordingly, comply with all relevant legal requirements. The protection of your privacy is of utmost importance to us. That is why it is a matter of course for us to comply with the legal provisions on data protection.
+
+= 1. Collection, processing and use of personal information
+
+== 1.1 Personal data
+
+Personal data is all information about personal and factual circumstances of a particular or identifiable person. This includes information and information such as your name, address or other postal address, telephone number or your email address.
+
+== 1.2 Legal basis
+
+The processing of your data is done on the following legal bases:
+
+- With regard to data that you specify in forms etc., with your consent, Art. 6 para. 1 lit. a) GDPR +
+- in relation to the services you use, to carry out a contract with you, Art. 6 (1) lit. b) GDPR +
+- moreover, in particular for statistical data and online identifiers, on the basis of legitimate interests, Art. 6 (1) lit. f) GDPR (see below) +
+
+=== Legitimate interests
+						
+When processing your data, we pursue the following legitimate interests:  +
+- improve the current user experience;  +
+- simplify it and make the landing page more informative; +
+- get some statistics (how many users work with the applications).
+
+== 1.3 Storage time
+
+We store your data,	 +
+- if you have consented to the processing at the latest until you revoke your consent; +
+- if we need the data for the execution of a contract, at most as long as the contractual relationship with you or legal storage periods (detailed information you can find in Section 1.5); +
+- if we use the data on the basis of a legitimate interest, at most as long as your interest in deletion or anonymization does not prevail. +
+						
+== 1.4 Uses
+
+Personal data is collected by us only and only to the extent and for the purpose for which you provide us with the data. +
+
+We only use and store your personal data as part of our services for the following purposes, if you have expressly given us your consent: +
+						
+1. Whitelisting of contributors prior to the Token Generating Event (TGE). The TGE has been finished 23rd July and we only store your data collected during the TGE;  +
+2. Customer support (we use https://www.zendesk.com/[Zendesk] to process your requests);  +
+3. Sending updates about the Decentralized Insurance Protocol Development (we use https://www.cleverreach.de/[Cleverreach] to send the newsletters);  +
+4. Improve the current user experience, simplify it and make the landing page more informative (we use https://analytics.google.com/analytics/web/[Google Analytics] for these purposes).
+
+== 1.5 Processing overview
+
+Etherisc GmbH provided a service for registering within the TGE of the “Decentralized Insurance Foundation”. In this context, Etherisc performed an own KYC procedure or/and used service providers which offer a service for verifying identity documents (in particular passports, ID cards, driving licences) and matching these to an individual. The TGE registration is finished 23rd July. After this date Etherisc GmbH doesn’t collect the registration data but stores it. +
+						
+Etherisc GmbH has commissioned IDnow GmbH to provide KYC services and KYC Spider AG to provide AML services in order to meet legal requirements (e.g. money laundering legislation, road traffic legislation) or to provide assurances of the identity of the end user. IDnow acts either as a contract data processor in accordance with §11 of the German Federal Data Protection Act (BDSG) resp. article 28 GDPR on the instructions of the customer or is itself the responsible body. KYC Spider acts as a contract data processor in accordance with article 10a Swiss Data Protection Act resp. article 28 GDPR. +
+						
+Parts of the data collected by Etherisc GmbH and IDNow GmbH was used to perform Anti-money-laundering checks by KYC spider in Switzerland, especially e-mail address, first name, last name, place of residence, and date of birth. This data is then matched against a collection of international Anti-money-laundering databases. If no risk is found, the registration was completed. The data is deleted by KYC Spider after 90 days at the latest. +
+
+All the data collected by IDnow is used solely for the purposes of verifying identity documents and/or identifying the user and for fulfilling AML requirements. Processing of your personal data beyond the purpose for which the legal permission is granted will only be carried out with the explicit consent of the user. The data is transmitted to Etherisc GmbH and will be deleted on the IDnow servers after 90 days at the latest, unless Etherisc GmbH has previously issued a deletion request. +
+
+On the basis of statutory retention periods (e.g. in the context of the Money Laundering Act), the data can be stored by Etherisc GmbH or the “Decentralized Insurance Foundation” for the duration of the business relationship between Etherisc GmbH or the “Decentralized Insurance Foundation” and end-user and for up to five years after its termination. +
+						
+= 2. Logfiles
+
+						
+Every time you access our Internet pages, usage data is transmitted through the respective Internet browser and stored in log files, the so-called server log files. The records stored in this case contain the following data: +
+						
+• Domain from which the user accesses the website +
+• Date and time of retrieval +
+• IP address of the accessing computer +
+• Website (s) that the user visits as part of the offer +
+• Transmitted amount of data, browser type and version +
+• Operating system used Name of the Internet service provider +
+• Message if the retrieval was successful
+						
+These logfile records are evaluated anonymously to improve the offering and make it more user- friendly, to find and fix bugs, and to control server load.				
+
+= 3. Cookies
+
+Cookies are small files that your browser places on your device in a designated directory. These cookies can be used to determine, for example, whether you have visited a website before. Most browsers accept cookies automatically. However, you can set your browser so that no cookies are stored or an explicit consent is required before saving a cookie. In addition, you can delete previously set cookies at any time. Please note that disabling cookies may result in restrictions on the use of our website. +
+						
+We need the cookies for the following purposes: to improve the current user experience, simplify it and make the landing page more informative.
+						
+= 4. Web analytics
+			
+We use - like almost every website operator - analysis tools in the form of tracking software to determine the frequency of use and the number of users of our website. +
+						
+To optimize this website and our offer, we use Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses so-called "cookies", text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Google on servers in the United States. However, if IP anonymisation is activated on this website, your IP address will be shortened by Google beforehand within member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the US and shortened there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, to compile reports on the website activities for the website operators and to provide other services related to website activity and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. to evaluate your use of the website to compile reports on the website activity for the website operators and to provide other services related to website activity and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. to evaluate your use of the website to compile reports on the website activity for the website operators and to provide other services related to website activity and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. to compile reports on the website activities for the website operators and to provide other services related to the website and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. to compile reports on the website activities for the website operators and to provide other services related to the website and internet usage to the website operator. The IP address provided by Google Analytics as part of Google Analytics will not be merged with other Google data. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. You can prevent the storage of cookies by a corresponding setting of your browser software; however, we point out that in this case you may not be able to fully use all functions of this website. +
+						
+In addition, you may prevent the collection by Google of the data generated by the cookie and related to your use of the website (including your IP address) as well as the processing of this data by Google using the link https://tools.google.com/dlpage/gaoptout?hl=de[https://tools.google.com/dlpage/gaoptout?hl=de]. Download and install the available browser plugin. As an alternative to the browser add-on or within browsers on mobile devices, please click this link to prevent future detection by Google Analytics within this website (the opt-out only works in this browser and only for this domain). An opt-out cookie is stored on your device. If you delete your cookies in this browser, you must click this link again. For more information, see https://tools.google.com/dlpage/gaoptout?hl=de[https://tools.google.com/dlpage/gaoptout?hl=de]. +
+						
+Please note that Google Analytics uses the code "gat._anonymizeIp ();" on this website. was extended to ensure the anonymous collection of IP addresses (so-called IP masking).
+
+= 5. Rights of the person concerned
+							
+Right to information, correction, revocation, complaint, cancellation and blocking. +
+							
+• You have the right to request information about whether and which personal data we process through you. You also have the right to request the correction of your personal data or its completion. +
+							
+• In certain circumstances, you have the right to request that your personal information be deleted. +
+							
+• In certain circumstances, you have the right to request that the processing of your personal data be restricted. +
+							
+• You may withdraw your consent to the processing and use of your data in whole or in part at any time with future effect. +
+							
+• You have the right to receive your personal information in a standard, structured and machine- readable format. +
+							
+• If you have any questions, comments, complaints or requests for information in connection with our privacy policy and the processing of your personal data, you can contact our data protection officer in writing. +
+							
+• You also have the right to complain to the relevant supervisory authority if you believe that the processing of your personal data violates the legal provisions. +
+										
+= 6. Further information and contacts
+						
+Please contact us as controller if you have any questions about this data protection declaration. +
+
+=== The contact address
+
+Etherisc GmbH, Ruth-Drexel-Str. 154 DE-81927 München +
+mailto:contact@etherisc.com[contact@etherisc.com] +
+https://etherisc.com/[https://etherisc.com/] (Support button)
+
+= 8. Status of this Privacy Policy							
+
+02/02/2024 +
+We reserve the right to change this Privacy Policy at any time with future effect.
+					
+
+
