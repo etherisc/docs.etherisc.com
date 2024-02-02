@@ -110,7 +110,7 @@ Please contact us as controller if you have any questions about this data protec
 
 === The contact address
 
-Etherisc GmbH, Ruth-Drexel-Str. 154 DE-81927 München +
+Etherisc GmbH, Ruth-Drexel-Str. 154, DE-81927 München +
 mailto:contact@etherisc.com[contact@etherisc.com] +
 https://etherisc.com/[https://etherisc.com/] (Support button)
 
