@@ -28,10 +28,6 @@ We will inform you immediately when double-sided staking is possible.
 
 Of course! You can stake tokens as much as you like. You can reinvest in a bundle by clicking the 'My stakes' button or select another risk bundle by clicking the 'Stake DIP' button.
 
-== What are the rewards I will receive?
-
-The payout will be in DIP tokens. The reward rate is adjusted to market conditions. Please check the app for the current reward rate. The current reward rate applies to the payout.
-
 == Is there a minimum stake amount?
 
 The minimum amount is 5.000 DIP tokens in the Etherisc DIP staking app.
@@ -40,13 +36,21 @@ The minimum amount is 5.000 DIP tokens in the Etherisc DIP staking app.
 
 There is no maximum stake amount.
 
+== What are the rewards I will receive?
+
+The payout will be in DIP tokens. The reward rate is adjusted to market conditions. Please check the app for the current reward rate. The current reward rate applies to the payout.
+
 == When will I start earning rewards?
 
 From the moment you make a deposit, your passive income begins.
 
 == When will I receive my rewards?
 
-You can claim your rewards after the end of the staking period. There is no automatic transfer to your wallet.
+You can claim your rewards at any time, at least after the end of the staking period. Just click the '`CLAIM REWARDS`' button and your rewards will be sent to your wallet.
+
+== Can I also add my rewards to my total staking amount?
+
+That does not work. Your rewards are always transferred to your wallet.
 
 == Is there a minimum lock duration?
 

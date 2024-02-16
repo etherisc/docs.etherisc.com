@@ -82,6 +82,8 @@ The '`UNSTAKE`' button in the screenshot is not active. You cannot unstake your 
 Please note: Your DIP token are not at risk. +
 
 ==== CLAIM REWARDS
+When you click the '`CLAIM REWARDS`' button, your rewards will be sent to your wallet after you have approved the transaction in your wallet. +
+
 You can claim your rewards at any time during the lifetime of a risk bundle, but at the latest when you unstake the total amount of your staked DIP tokens for this bundle. +
 
 ==== RESTAKE
