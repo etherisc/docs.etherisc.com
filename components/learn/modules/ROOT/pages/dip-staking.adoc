@@ -84,6 +84,8 @@ Please note: Your DIP token are not at risk. +
 ==== CLAIM REWARDS
 When you click the '`CLAIM REWARDS`' button, your rewards will be sent to your wallet after you have approved the transaction in your wallet. +
 
+The '`Accumulated Rewards`' are the currently accumulated, unclaimed rewards. They are not the rewards accumulated over the entire period. So, if you have already claimed a part of your rewards, the rewards already paid out are not included in the '`Accumulated Rewards.`' +
+
 You can claim your rewards at any time during the lifetime of a risk bundle, but at the latest when you unstake the total amount of your staked DIP tokens for this bundle. +
 
 ==== RESTAKE

@@ -6,7 +6,7 @@ The ideas in this paper are a collaborative result of many talks and discussions
 
 == History
 
-As a result of the Nov/Dec 2016 Hackathon, the Etherisc team wrote a White Paper, which was released to the public in its Version 0.3. Focus of the hackathon was the attempt to outline the core of a blockchain based reinsurance market.
+As a result of the Nov/Dec 2016 Hackathon, the Etherisc team wrote a whitepaper, which was released to the public in its Version 0.3. Focus of the hackathon was the attempt to outline the core of a blockchain based reinsurance market.
 
 Two years later, we released version 1.01 of the whitepaper for the DIP token sale which took place from June 23rd to July 25th, 2018. The 2018 whitepaper outlined the main features of the Etherisc ecosystem, and also important aspects of the DIP token. It was already clear that staking would emerge as the core token utility, however, a long way had to be gone to iron out the details. +
 
@@ -46,7 +46,7 @@ In this system, the native DIP token (Decentralized Insurance Protocol) plays a 
 
 == Chapters
 
-This White Paper is the attempt to structure the overall picture of decentralized insurance along the new insights. The document is structured in 4 main chapters: 
+This whitepaper is the attempt to structure the overall picture of decentralized insurance along the new insights. The document is structured in 4 main chapters: 
 
 *In chapter two*, we explain the fundamental facts about insurance and the disadvantages of traditional insurance. We highlight the advantages of blockchain and the decentralized model in insurance and explain the interplay between customers, users and companies. +
 
@@ -54,7 +54,7 @@ This White Paper is the attempt to structure the overall picture of decentralize
 
 *Chapter four* explains the DIP token and how it is used in Etherisc staking. We describe our staking model, the interaction of the different corresponding risk pools and the functions of the different tokens. The chapter is concluded with the topic of credits rewards and payment losses. +
 
-*Chapter five* deals with EGM (Etherisc Governance Model). We define the five core values as respect, partnership, responsibility, trust and public goods. They were followed by the structure of EGM and the participants and their roles. Details about the topics of global staking pool and monetary policy then round off the white paper with the appendix. +
+*Chapter five* deals with EGM (Etherisc Governance Model). We define the five core values as respect, partnership, responsibility, trust and public goods. They were followed by the structure of EGM and the participants and their roles. Details about the topics of global staking pool and monetary policy then round off the whitepaper with the appendix. +
 
 The final chapter six contains a list of all abbreviations and definitions of the most important terms. +
 

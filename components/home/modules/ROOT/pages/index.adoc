@@ -53,6 +53,7 @@ Etherisc security audits ..
 ////
 
 [.card-section]
+
 == Learn
 
 Comprehensive guides for every step of your journey in the Etherisc ecosystem!
@@ -91,6 +92,39 @@ xref:learn::whitepaper-en.adoc[[.card-title]#Whitepaper English# [.card-body]#pa
 --
 xref:learn::whitepaper-fr.adoc[[.card-title]#Whitepaper Français# [.card-body]#pass:q[Notre Whitepaper. Notre stratégie.]#]
 --
+
+== DIP Token
+
+The DIP token is the essential utility token of the Etherisc ecosystem. +
+
+Get all the information you need about the DIP token as a concentrate on our https://dune.com/etherisc_dune_wizards/dip-dashboard[DIP Dashboard].
+
+[.card-section]
+== DIP utility
+
+DIP tokens give users access to the Decentralized Insurance Platform. By staking DIP token, participants provide collateral (bond) for risk pools and to guarantee future performance, availability, and service levels. Staking also signals quality and reputation. As a result, participants can earn money monetizing their skills, software (for example risk models or UI/UX), risk capital, insurance licenses, claim processing, or regulatory compliance/reporting services. +
+
+[.card.card-primary.card-contracts]
+--
+xref:learn::staking-insurance.adoc[[.card-title]#Staking for Risk Pools# [.card-body]#pass:q[Staked DIP activate risk capital for collateralizing policies.]#]
+--
+
+[.card.card-primary.card-upgrades-js]
+--
+xref:learn::basics-gif.adoc[[.card-title]#Staking for Services# [.card-body]#pass:q[Staked DIP allow access to services within the ecosystem.]#]
+--
+
+[.card.card-primary.card-defender]
+--
+xref:gif::governance-model.adoc[[.card-title]#Staking for Governance# [.card-body]#pass:q[Staked DIP enables governance over the future of the protocol.]#]
+--
+=== The DIP Token Generating Event (TGE) - Jun 23rd to July 25th, 2018
+
+image::tge.PNG[DIP-TGE]
+
+=== Revenue model for protocol users & crypro investors
+
+image::revenue-model.PNG[Revenue-Model]
 
 // Check out https://forum.openzeppelin.com/c/general/guides-and-tutorials/23[the OpenZeppelin forum] for additional community-contributed guides!
 
