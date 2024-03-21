@@ -1,0 +1,30 @@
+
+= DIP Token
+
+== The DIP token is the essential utility token of the Etherisc ecosystem. +
+
+[#img-sunset,link=https://www.flickr.com/photos/javh/5448336655]
+image::token-01-production.PNG[TOK-PRO]
+
+Get all the information you need about the DIP token as a concentrate on our https://dune.com/etherisc_dune_wizards/dip-dashboard[DIP Dashboard].
+
+== DIP utility
+
+DIP tokens give users access to the Decentralized Insurance Platform. By staking DIP token, participants provide collateral (bond) for risk pools and to guarantee future performance, availability, and service levels. Staking also signals quality and reputation. As a result, participants can earn money monetizing their skills, software (for example risk models or UI/UX), risk capital, insurance licenses, claim processing, or regulatory compliance/reporting services. +
+
+[#img-insurance,link=https://docs.etherisc.com/learn/staking-insurance]
+image::token-02-staking-for-risk-pools.PNG[TOK-RIP]
+
+[#img-services,link=https://docs.etherisc.com/learn/basics-gif]
+image::token-03-staking-for-services.PNG[TOK-SER]
+
+[#img-services,link=https://docs.etherisc.com/gif/governance-model]
+image::token-04-staking-for-governance.PNG[TOK:GOV]
+
+= The DIP Token Generating Event (TGE) - Jun 23rd to July 25th, 2018
+
+image::token-06-tge.PNG[TOK-TGE]
+
+= Revenue model for protocol users & crypro investors
+
+image::token-05-revenue-model.PNG[Revenue-Model]
