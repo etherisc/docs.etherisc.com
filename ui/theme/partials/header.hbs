@@ -7,14 +7,13 @@
     </button>
     <div class="navbar-logo">
       <a href="{{@root.site.url}}">
-        <img height="48px" src="{{@root.site.ui.url}}/images/etherisc_logo.svg">
+        <img height="38px" src="{{@root.site.ui.url}}/images/etherisc_logo.svg">
       </a>
     </div>
 
     <div id="search-field" class="navbar-search">
       <input class="navbar-search-input" id="search-input" type="text"
-        placeholder="{{#if (eq @root.page.component.name " ROOT")}}Search{{else}}Search
-        {{@root.page.component.title}}{{/if}}">
+        placeholder="Search">
       {{#unless (eq @root.page.component.name "ROOT")}}
       <input class="navbar-search-filter" type="checkbox" data-facet-filter="component:{{page.component.name}}" checked>
       {{/unless}}

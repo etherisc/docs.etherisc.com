@@ -1,2 +1,5 @@
 /theme/dist
 /preview/build
+
+# ide
+*.idea
