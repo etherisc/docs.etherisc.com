@@ -27,6 +27,10 @@ content:
       branches: feature/documentation-setup
       start_path: docs
 
+    - url: https://github.com/etherisc/gif-next
+      branches: docs/develop
+      start_path: docs
+
     - url: https://github.com/etherisc/gif-sandbox
       branches: main
       start_path: docs
