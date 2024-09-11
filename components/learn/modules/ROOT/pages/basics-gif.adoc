@@ -108,8 +108,6 @@ It is a basic implementation that can be used to create blockchain-based insuran
 
 In order to be able to design insurance products quickly and easily, processing steps that run similarly in all products have been identified and made available as modules. Thus, only product-specific aspects such as pricing etc. need to be implemented for each product.
 
-Processing steps that run similarly in all products have been identified and made available as modules to design insurance products quickly and easily. Thus, only product-specific aspects, such as pricing, etc., must be implemented for each product.
-
 GIF provides these generic functions for all sub-steps in the lifecycle of an insurance policy, thus enabling an automated workflow that controls the sequence of processing steps. The following section will describe these functions and how they work in detail.
 
 === GIF and GIF instances 
